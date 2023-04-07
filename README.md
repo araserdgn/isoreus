@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">I'm a student of computer engineer. I am working as a jr.Full-Stack in Turkey.</h3>
-<img align="right" alt="coding" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="400">
+<img align="right" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
 
 <p align="left"> <a href="https://twitter.com/isoreus7" target="blank"><img src="https://img.shields.io/twitter/follow/isoreus7?logo=twitter&style=for-the-badge" alt="isoreus7" /></a> </p>
 
