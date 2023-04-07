@@ -1,5 +1,4 @@
 
-<img style="display: block; align:center; -webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif" width="1100" height="380" >
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">I'm a student of computer engineer. I am working as a jr.Full-Stack in Turkey.</h3>
 <img align="right" alt="coding" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="400">
