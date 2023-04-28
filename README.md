@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **self-improvement**
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python, Django and React**
 
 - 📫 How to reach me **iso.reus@gmail.com**
 
